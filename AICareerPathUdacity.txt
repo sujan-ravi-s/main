@@ -1,0 +1,96 @@
+--- AI Career learning path
+This is quite a sharp learning curve. Push max!
+1. Structure:
+    <Subject/Area of study>
+      <Corresponding Udacity course>
+2. Notation:
+    a. Everything is free course except $ courses. More $ = higher price
+    b. Roman numbers(I., II...) indicate milestones like nano degrees
+    c. [] optional/not decided
+    d. *Where is this course?
+    e. #Where to go for this?
+
+General
+  Intro to psychology
+  Intro to design of everyday things
+  [
+  Linux command line basics
+  Introduction to Operating Systems
+  Software Architecture and design
+  ]
+  How to use Git and GitHub
+  Technical interview 
+
+Java
+  Intro to Java programming
+  Java programming basics
+
+Programming/Python
+  Intro to computer science
+  Intro to programming
+  [
+  Programming languages
+  Intro to HTML and CSS
+  HTML5 Canvas
+  HTML5 Game development
+  JavaScript basics
+  Intro to jQuery
+  Object oriented JavaScript
+  JavaScript testing
+  JavaScript design patterns
+  ]
+  Programming foundations with Python
+  All of my 'followUp' Google Chrome bookmarks
+  Software Debugging
+  [
+  Web development
+  ]
+
+Statistics
+  Intro to Statistics
+  Intro to descriptive statistics
+  Intro to inferential statistics
+
+Maths
+  Intro to physics
+  Visualising Algebra
+  College Algebra
+  Intro to linear algebra*
+  Intro linear algebra review
+  Linear algebra refresher
+  Calculus#
+  Differential equations in action
+
+Data Analysis
+  Intro to Data Analysis
+  [
+  Data Analysis with R
+  ]
+
+[
+Data Science
+  Intro to Data Science
+]
+
+Machine learning
+  Intro to machine learning
+  Intro to Artificial Intelligence
+  Machine Learning: Unsupervised Learning
+  Machine Learning
+  Model building and validation
+  I. $$ - Machine learning engineer nano degree
+
+Deep learning
+  Intro to Algorithms
+  Intro to theoretical computer science
+  Introduction to computer vision
+  $ - Deep learning foundation nano degree
+
+Artificial Intelligence
+  Knowledge based AI: Cognitive Systems
+  Reinforcement learning
+  Artificial Intelligence for robotics
+  II. $$$ - Artificial Intelligence  
+
+Explore
+  Tales from the genome
